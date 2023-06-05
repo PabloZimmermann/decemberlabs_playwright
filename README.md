@@ -14,6 +14,8 @@ You need to have Node.js and npm installed on your machine. If you haven't insta
 
 1. Clone this repository to your local machine.
 
+`https://github.com/PabloZimmermann/decemberlabs_playwright.git`
+
 2. Navigate to the project directory.
 
 `cd decemberlabs_playwright`

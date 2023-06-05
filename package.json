@@ -1,0 +1,17 @@
+{
+    "name": "decemberlabs_playwright",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "playwright test --headed --workers 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@playwright/test": "^1.34.3"
+    },
+    "dependencies": {
+        "dotenv": "^16.1.3"
+    }
+}
